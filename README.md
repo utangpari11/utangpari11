@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Myself Utangpari Goswami 
+### Data enthusiastic 💻
+
+🏅 Tools I'm using 
+Excel, Power BI, SQL, Python.
+
+- 📫 How to reach me: goswamiutangpari@yahoo.in
+- 👯 I’m looking to connect with data critic.
+- 🌱 I’m currently learning financial analysis.
+- 
+
 
 <!--
 **utangpari11/utangpari11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
