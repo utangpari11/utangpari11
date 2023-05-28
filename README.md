@@ -13,7 +13,9 @@ Excel, Power BI, SQL, Python.
 - 📫 How to reach me: goswamiutangpari@yahoo.in
 - 👯 I’m looking to connect with data critic.
 - 🌱 I’m currently learning financial analysis.
-- 
+
+<a href="https://instagram.com/utangpari_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavya_grg" height="30" width="40" /></a>
+
 
 
 <!--
