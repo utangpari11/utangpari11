@@ -17,7 +17,6 @@ Excel, Power BI, SQL, Python.
 <a href="https://instagram.com/utangpari_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utangpari_goswami" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/utangpari-goswami-3b5a31a8/" target="blank"><img align="center" src="https://github.com/utangpari11/utangpari11/assets/22760850/86559614-6a25-42f3-b953-05aa272794c8" alt="utangpari_goswami" height="30" width="40" /></a>
 
-
 <!--
 **utangpari11/utangpari11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
