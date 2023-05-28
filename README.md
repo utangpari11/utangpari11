@@ -1,5 +1,11 @@
-### Hi there 👋 Myself Utangpari Goswami 
-### Data enthusiastic 💻
+
+<h1 align="center"> Hi there 👋 Myself Utangpari Goswami </h1>
+<h2 align="center">Data enthusiastic 💻</h2>
+
+
+<img align="center" src="https://github.com/utangpari11/utangpari11/assets/22760850/dcd02e52-e709-4512-a2f2-126a91421241" width="200">
+<br>
+<br>
 
 🏅 Tools I'm using 
 Excel, Power BI, SQL, Python.
